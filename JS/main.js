@@ -1,56 +1,61 @@
-var fristName = "john";
-var lastName = "doe";
+// var fristName = "john";
+// var lastName = "doe";
 
-console.log('First Name'+fristName +' '+'Last Name'+lastName);
+// console.log('First Name'+fristName +' '+'Last Name'+lastName);
 
-var  age = 28;
+// var  age = 28;
 
-var  fullAge = true;
-console.log( 'john  is '+age+' years  old '+'and  it is '+fullAge);
+// var  fullAge = true;
+// console.log( 'john  is '+age+' years  old '+'and  it is '+fullAge);
  
-var job;
-console.log(job);
+// var job;
+// console.log(job);
 
-job = 'teacher';
+// job = 'teacher';
 
-console.log('he  is a '+job);
-//var naming  rules
-/*fhff
-hhhhh*/
+// console.log('he  is a '+job);
+// //var naming  rules
+// /*fhff
+// hhhhh*/
 
-var _3year = 3;
-console.log(_3year);
+// var _3year = 3;
+// console.log(_3year);
 
-var  job,  isMarried;
+// var  job,  isMarried;
 
-job = "teacher";
-isMarried = false;
+// job = "teacher";
+// isMarried = false;
 
-/************************** */
-//typing coerection//
+// /************************** */
+// //typing coerection//
 
-console.log(fristName+ ' is  a '+job+'. he is '+age+' years  old.'+ 'but is he married? '+isMarried);
-
-
-/*******************************/
-
-//variable  mutation== changing  value  of a  variable
-
-age='tweenty eight';
-
-console.log(age);
+// console.log(fristName+ ' is  a '+job+'. he is '+age+' years  old.'+ 'but is he married? '+isMarried);
 
 
-alert(fristName+ ' is  a '+job+'. he is '+age+' years  old.'+ 'but is he married? '+isMarried);
+// /*******************************/
+
+// //variable  mutation== changing  value  of a  variable
+
+// age='tweenty eight';
+
+// console.log(age);
 
 
-var lastName = prompt('what  is  his  lastname?');
-
-console.log(lastName);
+// alert(fristName+ ' is  a '+job+'. he is '+age+' years  old.'+ 'but is he married? '+isMarried);
 
 
-console.log(fristName+" "+lastName);
+// var lastName = prompt('what  is  his  lastname?');
+
+// console.log(lastName);
+
+
+// console.log(fristName+" "+lastName);
+
+
+// console.log("hello   World  of JAVASCRIPT!!!!! I  am  new Here")
 
 
 
+var yearJohn = 2018-28;
 
+console.log(yearJohn);
