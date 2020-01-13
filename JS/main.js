@@ -1,5 +1,5 @@
 /************************
-CODING CHALENGE
+CODING CHALLENGE
 
  *************************/
 
