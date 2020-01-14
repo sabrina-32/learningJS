@@ -73,6 +73,8 @@ console.log("\n\nCODING CHALLENGE -3\n");
 
 
 var bills =[124,48,268];
+
+
 function tipCalculate(bill){
     var tips;
 
@@ -100,3 +102,52 @@ var finalBill = [
 
 
 console.log(totalTips,finalBill);
+
+
+
+
+
+// /************************
+// CODING CHALLENGE -4
+
+//  *************************/
+
+
+
+
+var  john ={
+    name:  "John",
+    mass: 70,
+    height:1.55,
+    bmi: function(){
+        return this.mass/(this.height*this.height);
+
+    }
+}
+console.log("BMI  of " +john.name+" : "+ john.bmi());
+
+
+
+
+var  mark ={
+    name:  "Mark",
+    mass: 80,
+    height: 1.88,
+    bmi: function(){
+        return this.mass/(this.height*this.height);
+
+    }
+}
+console.log("BMI  of " +mark.name+" : "+ mark.bmi());
+
+
+
+if(mark.bmi()>john.bmi()){
+    console.log("Mark\'s  BMI  is  heigher than John");
+}
+else{
+    console.log("John\'s  BMI  is  heigher than Mark");
+
+}
+
+
